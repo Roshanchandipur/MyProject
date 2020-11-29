@@ -35,7 +35,7 @@ if(mode==1)
 }
 else if(mode==2)
 {
- cout<<"\nEnter level: \1.Easy\n2.Medium  ";
+ cout<<"\nEnter level: \1.Easy  ";
  cin>>diff;
  cout<<"\nEnter name ";
  gets(name1);
